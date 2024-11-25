@@ -26,7 +26,7 @@ Follow these steps to set up and run the chatbot on your local machine.
   pip install -r requirements.txt
   ```
 
-- **Vector Index**: Download the **vector_faiss index** file from the GitHub repository and place it in the `./model/` directory.
+<!--- **Vector Index**: Download the **vector_faiss index** file from the GitHub repository and place it in the `./model/` directory.-->
 
 ### Running the Chatbot
 
@@ -105,4 +105,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ---
 
-Feel free to customize the content or structure as per your requirements! If you need help adding specific details, let me know.
